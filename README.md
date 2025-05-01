@@ -68,3 +68,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# React Quiz App
+
+A simple React quiz app that tracks score, shows progress, and displays a result screen with animations.
+
+## 🚀 Features
+- Multiple-choice questions
+- Score tracking
+- Confetti animation for perfect scores
+- Restart quiz option
+
+## 📸 Screenshots
+![Quiz Screen](./assets/quiz.png)
+![Result Screen](./assets/result.png)
+
+## 🛠️ Installation
+1. Clone the repo  
+2. Run `npm install`  
+3. Run `npm start`
+
+## 🧠 Technologies
+- React
+- CSS
+- Framer Motion
+- React Confetti
+
+
